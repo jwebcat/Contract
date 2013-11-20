@@ -9,7 +9,7 @@
   development work, a conference talk.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
+* **‘I’** refers to me, Jupiter St. John, working for You on behalf of Code with Soul
   Ltd.
 
 ## About this document
@@ -34,7 +34,7 @@ signing the document. Each project I undertake will have its own individual
 nuances and requirements, so I am able and willing to modify this document to
 suit the needs of each project.
 
-In summary, The Client is contracting CSS Wizardry Ltd. to complete
+In summary, The Client is contracting Code with Soul Ltd. to complete
 work outlined within this document and/or other documents in accordance with
 agreed briefs, specifications, costs and deadlines.
 
@@ -44,13 +44,9 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
-
-[Address]
+**Jupiter St John, ‘Code with Soul’, ‘I’:**
 
 **[Name], ‘The Client’, ‘You’:**
-
-[Address]
 
 ## Scope of The Work
 
@@ -127,12 +123,12 @@ priced separately to the scope of The Work.
 ## Payment
 
 Being a small and, currently, a fledgling business, cash flow is very important
-to CSS Wizardry. As such, it is asked that You meet the payment terms outlined
+to Code with Soul Ltd. As such, it is asked that You meet the payment terms outlined
 below.
 
 ### Deposit
 
-An upfront deposit of 50% is required before commencing with any agreed work.
+An upfront deposit of 25% is required before commencing with any agreed work.
 This deposit is non-refundable and will only be paid once a fixed scope has been
 set, and we are confident that we wish to work together to these agreed terms.
 No deposit shall be taken until You are completely happy with, and clear about,
@@ -143,7 +139,7 @@ soon as the deposit is received.
 
 Once a project is deemed complete, an invoice shall be raised for the remaining
 50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 14 days of it being invoiced.
+The remaining balance shall be paid within 3 days of it being invoiced.
 
 ### Late payment
 
@@ -154,7 +150,7 @@ any outstanding invoices.
 
 ### Expenses
 
-Any expenses (e.g. travel, accommodation, font licenses, etc.) shall be charged
+Any expenses (e.g. travel, accommodation, themes, plugins, font licenses, etc.) shall be charged
 on top of any charges relating directly to The Work.
 
 ## tl;dr
@@ -167,8 +163,8 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
-* **Date:**
+* **Jupiter St John**
+* **Date: 11/19/2013**
 
 * **You:**
 * **Date:**
